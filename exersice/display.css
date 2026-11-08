@@ -1,0 +1,9 @@
+.name,.email{
+  display: block;
+}
+
+.survey{
+  width: 150px;
+  display: inline-block;
+}
+
